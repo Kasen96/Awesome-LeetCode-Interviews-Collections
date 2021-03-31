@@ -22,6 +22,9 @@ LeetCode 题解与面试经验收集。
 | [doocs](https://github.com/doocs)/**[leetcode](https://github.com/doocs/leetcode)** | Java / Python | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
 | [arpan74](https://github.com/arpan74)/**[ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions)** |    Python     |          Cracking the Coding Interview in Python 3           |
 | [fishercoder1534](https://github.com/fishercoder1534)/**[Leetcode](https://github.com/fishercoder1534/Leetcode)** |     Java      |                Solutions to LeetCode problems                |
+| [azl397985856](https://github.com/azl397985856)/**[leetcode](https://github.com/azl397985856/leetcode)** |    Python     |         Leetcode题解，记录自己的 Leetcode 解题之路。         |
+| [halfrost](https://github.com/halfrost)/**[LeetCode-Go](https://github.com/halfrost/LeetCode-Go)** |      Go       | Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% |
+| [chefyuan](https://github.com/chefyuan)/**[algorithm-base](https://github.com/chefyuan/algorithm-base)** |     Java      |             专门为刚开始刷题的同学准备的算法基地             |
 
 # Interviews
 
@@ -51,5 +54,6 @@ LeetCode 题解与面试经验收集。
 
 * [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+* [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [PathPlanning](https://github.com/zhm-real/PathPlanning)
 
