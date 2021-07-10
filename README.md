@@ -7,24 +7,25 @@ LeetCode 题解与面试经验收集。
 
 |                         Repositories                         |   Solution    |                            About                             |
 | :----------------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
-| [MisterBooo](https://github.com/MisterBooo)/**[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)** |     Java      |            用动画的形式呈现解 LeetCode 题目的思路            |
-| [billryan](https://github.com/billryan)/**[algorithm-exercise](https://github.com/billryan/algorithm-exercise)** | Python / Java |          数据结构与算法 / Leetcode / Lintcode 题解           |
+| [changgyhub](https://github.com/changgyhub)/**[leetcode_101](https://github.com/changgyhub/leetcode_101)** |      C++      |               LeetCode 101：和你一起你轻松刷题               |
+| [haoel](https://github.com/haoel)/**[leetcode](https://github.com/haoel/leetcode)** |      C++      |                 LeetCode Problems' Solutions                 |
 | [pezy](https://github.com/pezy)/**[LeetCode](https://github.com/pezy/LeetCode)** | C++ / Python  |           LeetCode solutions in C++ 11 and Python3           |
 | [kamyu104](https://github.com/kamyu104)/**[LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)** | C++ / Python  | Python / Modern C++ Solutions of All 1729 LeetCode Problems  |
-| [haoel](https://github.com/haoel)/**[leetcode](https://github.com/haoel/leetcode)** |      C++      |                 LeetCode Problems' Solutions                 |
-| [hustcc](https://github.com/hustcc)/**[JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)** |     Java      | 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现 |
 | [grandyang](https://github.com/grandyang)/**[leetcode](https://github.com/grandyang/leetcode)** |  C++ / Java   | Provide all my solutions and explanations in Chinese for all the Leetcode coding problems |
+| [wisdompeak](https://github.com/wisdompeak)/**[LeetCode](https://github.com/wisdompeak/LeetCode)** |      C++      | This repository contains the solutions and explanations to the algorithm problems on LeetCode |
+| [MisterBooo](https://github.com/MisterBooo)/**[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)** |     Java      |            用动画的形式呈现解 LeetCode 题目的思路            |
+| [billryan](https://github.com/billryan)/**[algorithm-exercise](https://github.com/billryan/algorithm-exercise)** | Python / Java |          数据结构与算法 / Leetcode / Lintcode 题解           |
+| [hustcc](https://github.com/hustcc)/**[JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)** |     Java      | 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现 |
 | [labuladong](https://github.com/labuladong)/**[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)** |     Java      |          Crack LeetCode, not only how, but also why          |
 | [greyireland](https://github.com/greyireland)/**[algorithm-pattern](https://github.com/greyireland/algorithm-pattern)** |      Go       |  算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~   |
 | [geekxh](https://github.com/geekxh)/**[hello-algorithm](https://github.com/geekxh/hello-algorithm)** |     Java      |           「算法面试+算法知识」针对小白的算法训练            |
-| [wisdompeak](https://github.com/wisdompeak)/**[LeetCode](https://github.com/wisdompeak/LeetCode)** |      C++      | This repository contains the solutions and explanations to the algorithm problems on LeetCode |
-| [changgyhub](https://github.com/changgyhub)/**[leetcode_101](https://github.com/changgyhub/leetcode_101)** |      C++      |               LeetCode 101：和你一起你轻松刷题               |
 | [doocs](https://github.com/doocs)/**[leetcode](https://github.com/doocs/leetcode)** | Java / Python | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
 | [arpan74](https://github.com/arpan74)/**[ctci-python-solutions](https://github.com/arpan74/ctci-python-solutions)** |    Python     |          Cracking the Coding Interview in Python 3           |
 | [fishercoder1534](https://github.com/fishercoder1534)/**[Leetcode](https://github.com/fishercoder1534/Leetcode)** |     Java      |                Solutions to LeetCode problems                |
 | [azl397985856](https://github.com/azl397985856)/**[leetcode](https://github.com/azl397985856/leetcode)** |    Python     |         Leetcode题解，记录自己的 Leetcode 解题之路。         |
 | [halfrost](https://github.com/halfrost)/**[LeetCode-Go](https://github.com/halfrost/LeetCode-Go)** |      Go       | Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% |
 | [chefyuan](https://github.com/chefyuan)/**[algorithm-base](https://github.com/chefyuan/algorithm-base)** |     Java      |             专门为刚开始刷题的同学准备的算法基地             |
+| [youngyangyang04](https://github.com/youngyangyang04)/**[leetcode-master](https://github.com/youngyangyang04/leetcode-master)** |       *       |                      LeetCode 刷题攻略                       |
 
 # Interviews
 
@@ -48,12 +49,12 @@ LeetCode 题解与面试经验收集。
 | [jayshah19949596](https://github.com/jayshah19949596)/**[CodingInterviews](https://github.com/jayshah19949596/CodingInterviews)** | This repository contains coding interviews that I have encountered in company interviews |
 | https://github.com/zslomo/2019-Autumn-recruitment-experience |                     2019 届秋招面经集合                      |
 | [ferrari014](https://github.com/ferrari014)/**[EasyJob](https://github.com/ferrari014/EasyJob)** |                 2019 互联网求职面试知识复习                  |
-| [0voice](https://github.com/0voice)/**[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** | 2020 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目  |
+|             [0voice](https://github.com/0voice)              |                         IT 面试合集                          |
 
 # Others
 
 * [数据结构和算法动态可视化 (Chinese)](https://visualgo.net/zh)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)
-* [PathPlanning](https://github.com/zhm-real/PathPlanning)
+* [Path Planning](https://github.com/zhm-real/PathPlanning)
 
